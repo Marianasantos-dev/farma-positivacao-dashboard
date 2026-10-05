@@ -1,10 +1,16 @@
 {
-  "title":"Dashboard de Positivação Farma",
-  "category":"Projeto profissional",
-  "summary":"Dashboard desenvolvido para acompanhamento de indicadores comerciais e positivação do canal Farma.",
-  "problem":"Necessidade de tornar o acompanhamento dos indicadores comerciais mais visual, centralizado e acessível.",
-  "solution":"Dashboard interativo estruturado para facilitar a leitura dos principais indicadores e o acompanhamento de performance.",
-  "technologies":["HTML","CSS","JavaScript","Data Visualization"],
-  "featured":false,
-  "status":"Concluído"
+  "title": "Dashboard de Positivação Farma",
+  "category": "Projeto profissional",
+  "summary": "Dashboard desenvolvido para acompanhamento de indicadores comerciais e positivação do canal Farma.",
+  "problem": "Necessidade de tornar o acompanhamento dos indicadores comerciais mais visual, centralizado e acessível.",
+  "solution": "Dashboard interativo estruturado para facilitar a leitura dos principais indicadores e o acompanhamento de performance.",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Data Visualization"
+  ],
+  "featured": false,
+  "status": "Concluído",
+  "cover": "Dashboard-preview.png"
 }
